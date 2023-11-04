@@ -1,0 +1,3 @@
+requests==2.31.0
+m3u8-dl==0.2.3
+selenium==4.15.2
